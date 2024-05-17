@@ -25,17 +25,20 @@ Please use our [wiki](../../wiki) for more information and documentation.
 - [Configuration](../../wiki/Configuration)
 - [Docks](../../wiki/Docks)
 - [Slicers](../../wiki/Slicers)
+- [Serials](../../wiki/Serials)
 - [Support and FAQs](../../wiki/Support-and-FAQs)
-- [Contributing](../../wiki/Contributing)
-- [Contributors & Credits](../../wiki/Contributors-and-Credits)
+- [Contributing & Donating](../../wiki/Contributing-and-Donating)
+- [Team & Credits](../../wiki/Team-and-Credits)
 
 
 ## Preview
-### Printed Parts (Dragonburner) by ZombieHedgehog
+### Printed Parts (Dragonburner) by BT123
 ![](media/parts.png?raw=true)
 ![](media/parts_together.png?raw=true)
-### Assembled Shuttle by TheSin-
-![](media/shuttle.jpg?raw=true)
+### Important! - Check for clear Hex's (Dragonburner) by BT123
+![](media/hexs.png?raw=true)
+### Assembled Shuttle and Backplate by BT123
+![](media/assemble.png?raw=true)
 ### Motion (Stealthburner) by TheSin-
 ![](media/motion.gif?raw=true)
 ### Docking (Stealthburner) by fiferboy
